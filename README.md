@@ -6,7 +6,7 @@
 
 #### Project description
 
-An educational implementation of a classic Binary Search Tree (BST) in JavaScript, featuring all standard BST operations and rebalancing.
+An educational implementation of a classic [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree) (BST) in JavaScript, featuring all standard BST operations and rebalancing.
 
 ---
 
